@@ -1,0 +1,11 @@
+/*
+ Theme Name:   NP011 child
+ Description:  NP011 - Child Theme (build 2016-08-28) 
+ Author:       Vladimir Rancic
+ Author URI:   https://twitter.com/vladimirxregis
+ Template:     parent-theme
+ Version:      1.0.0
+ Text Domain:  np011-child
+*/
+
+@import '../parent-theme/style.css';
